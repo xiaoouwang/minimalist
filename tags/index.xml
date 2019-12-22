@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on RPythonJava</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on RPythonJava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>爬虫</title>
+      <link>/tags/%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
